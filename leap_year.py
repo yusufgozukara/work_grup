@@ -1,8 +1,6 @@
 
 
-# Default function to implement conditions to check leap year  
-def CheckLeap(Year):  
-  # Checking if the given year is leap year  
+#fatih  # Checking if the given year is leap year  
   if((Year % 400 == 0) or  
      (Year % 100 != 0) and  
      (Year % 4 == 0)):   
